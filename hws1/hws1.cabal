@@ -1,6 +1,6 @@
 name:                hws1
 version:             0.1.0.0
-homepage:            https://github.com/MinganMuon/haskell-workspace/hws1/README.md
+homepage:            https://github.com/MinganMuon/haskell-workspace/tree/master/hws1
 author:              MinganMuon
 build-type:          Simple
 cabal-version:       >=1.10

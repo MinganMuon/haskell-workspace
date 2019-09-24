@@ -1,1 +1,3 @@
 hws1/.stack-work/
+*.o
+*.hi
